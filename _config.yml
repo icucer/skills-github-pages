@@ -1,4 +1,6 @@
 theme: minima
 title: My First Page on GitHub
 author: I. C.
-description: This is my first project hosted on GitHub. It demonstrates my journey in web development, showcasing fundamental concepts like HTML, CSS, and JavaScript. Stay tuned for more updates!
+description: This is my first project hosted on GitHub. It demonstrates my journey in web development and programing skills!
+google_fonts:
+  - family: 'Open Sans'
