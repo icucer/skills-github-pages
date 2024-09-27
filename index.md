@@ -1,7 +1,6 @@
 ---
-title: Welcome to my github page
+title: Hi, I'm Ion Cucer
 ---
-# Hi, I'm Ion Cucer
 
 I am a developer in training specialized in **Full Stack Java** and **Python** technologies, with a focus on frameworks like **Spring Boot** and **Django**. I am currently completing intensive web development programs that have allowed me to work on both academic and personal projects.
 
