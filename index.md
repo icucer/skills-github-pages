@@ -1,8 +1,8 @@
 ---
 title: Welcome to my github page
 ---
-# Hola, soy Ion Cucer
+# Hi, I'm Ion Cucer
 
-Soy un desarrollador en formación especializado en tecnologías **Full Stack Java** y **Python**, con un enfoque en frameworks como **Spring Boot** y **Django**. Actualmente estoy culminando programas intensivos de desarrollo web que me han permitido trabajar en proyectos tanto académicos como personales.
+I am a developer in training specialized in **Full Stack Java** and **Python** technologies, with a focus on frameworks like **Spring Boot** and **Django**. I am currently completing intensive web development programs that have allowed me to work on both academic and personal projects.
 
-Además, mi experiencia previa en ingeniería y administración me brinda una ventaja en el **análisis de problemas** y la **gestión de proyectos**. Estoy entusiasmado por aportar mis habilidades técnicas y analíticas a un equipo de desarrollo en crecimiento.
+In addition, my previous experience in engineering and management gives me an advantage in **problem analysis** and **project management**. I am excited to bring my technical and analytical skills to a growing development team.
